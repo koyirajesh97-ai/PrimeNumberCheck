@@ -17,6 +17,7 @@ public class PrimeNumber {
             System.out.println(num + " is prime");
         }else{
             System.out.println(num + " is not prime");
+            // works as expected
         }
         sc.close();
     }
