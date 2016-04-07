@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class PrimeNumber {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
+        // works fine for now
         // minor changes
         System.out.println("enter a number");
         int num = sc.nextInt();
