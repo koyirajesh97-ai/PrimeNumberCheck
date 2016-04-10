@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// ok
 
 public class PrimeNumber {
     public static void main(String[] args){
