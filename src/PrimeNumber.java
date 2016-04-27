@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class PrimeNumber {
     public static void main(String[] args){
+    // todo: add unit test
         Scanner sc = new Scanner(System.in);
         // works fine for now
         // minor changes
